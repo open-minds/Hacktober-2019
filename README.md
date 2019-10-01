@@ -21,3 +21,62 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
+
+## Getting Started - Difficult
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Install git on your computer https://git-scm.com
+* Clone your fork down to your local machine
+
+```markdown
+git clone https://github.com/your-username/Hacktober-2019.git
+```
+
+* Make your changes (choose from any task above)
+* Commit and push
+
+```markdown
+git add .
+git commit -m "Commit message"
+git push origin master
+```
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ if you had fun!
+
+
+## Choose from these tasks
+### 1. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: [GitHib username](GitHub profile link)
+```
+
+### 2. Add a profile page
+Add a `Your_Full_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+
+```markdown
+# Your Full Name
+
+### Location
+
+Your City/Country
+
+### Academics
+
+Your School
+
+### Interests
+
+- Some Things You Like
+- Something Else
+
+### Development
+
+- web developper for example
+- game dev as another example
+
+### Profile Link
+
+[GitHib username](GitHub profile link)
+```
