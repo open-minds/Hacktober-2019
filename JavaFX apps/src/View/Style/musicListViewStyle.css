@@ -1,0 +1,71 @@
+
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: #60CC96;
+    -fx-text-fill: white;
+    -fx-padding: 0px;
+}
+
+.list-view{
+	fx-background-color: transparent;
+}
+
+.list-cell:filled { 
+    -fx-background-color: #513E6D;
+    -fx-text-fill: white;
+    -fx-padding: 0px;
+}
+
+.list-cell:empty {
+    -fx-background-color: #513E6D;
+    -fx-text-fill: white;
+    -fx-padding: 0px;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #60CC96;
+    -fx-text-fill: white;
+    -fx-padding: 0px;
+}
+
+/*search bar css*/
+.text-input {
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: white;
+}
+.text-input:focused {
+    -fx-highlight-text-fill: white;
+    -fx-prompt-text-fill: white;
+}
+
+/*scroll bar music list*/
+.scroll-bar:vertical .track{
+    -fx-background-color :#513E6D;
+    -fx-border-color :#513E6D;
+}
+
+.scroll-bar:vertical .increment-button ,
+.scroll-bar:vertical .decrement-button {
+    -fx-background-color :transparent;
+    -fx-background-radius : 0.0em;
+    -fx-padding :0.0 10.0 0.0 0.0;
+}
+
+ .scroll-bar:vertical .increment-arrow,
+ .scroll-bar:vertical .decrement-arrow{
+    -fx-shape : " ";
+    -fx-padding :0.0 0.15em;
+}
+
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color :white;
+    -fx-background-radius : 2.0em;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color :#60CC96;
+    -fx-background-radius : 2.0em;
+}
+
+
