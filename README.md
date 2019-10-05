@@ -1,4 +1,6 @@
 # Hacktober-2019
+## Share what you did in 2019!
+
 Repo for TOM members dedicated for the Hacktober fest of 2019 (6th edition), this repo is here to encourage open source learning and sharing and enhance git/github using abilities. 
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
