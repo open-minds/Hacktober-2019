@@ -1,0 +1,5 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Client		TAR	280	nouvelle taille enregistrement : 280
+Client	ville	RUB+		ville est une nouvelle rubrique
+Client	adresse	RUB+		adresse est une nouvelle rubrique
+Client	Email	RUB+		Email est une nouvelle rubrique

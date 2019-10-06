@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Commande		TAR	93	nouvelle taille enregistrement : 93
+Commande	IDClient	RUB+		IDClient est une nouvelle clé
+Client		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)

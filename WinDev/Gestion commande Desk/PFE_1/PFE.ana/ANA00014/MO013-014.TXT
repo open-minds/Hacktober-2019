@@ -1,0 +1,33 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Produit		TAR	98	nouvelle taille enregistrement : 98
+Produit	Quantité	RUB+		Quantité est une nouvelle rubrique
+Commande		TAR	64	nouvelle taille enregistrement : 64
+Commande	Totalht	RUB+		Totalht est une nouvelle rubrique
+Commande	totaltva	RUB+		totaltva est une nouvelle rubrique
+Commande	totalttc	RUB+		totalttc est une nouvelle rubrique
+Commande	IDFournisseur	RUB+		IDFournisseur est une nouvelle clé
+Commande	IDLivreur	RUB-		la clé IDLivreur est supprimée
+Commande	NomClient	RUB-		la clé NomClient est supprimée
+Commande	IDClient	RUB-		la clé IDClient est supprimée
+LiCommande		TAR	98	nouvelle taille enregistrement : 98
+LiCommande	nomProduit	RUB+		nomProduit est une nouvelle rubrique
+LiCommande	Quanité	RUB+		Quanité est une nouvelle rubrique
+LiCommande	PrixVente	RUB+		PrixVente est une nouvelle rubrique
+LiCommande	IDProduit	RUB+		IDProduit est une nouvelle clé
+LiCommande	IDProduit	RUB-		la clé IDProduit est supprimée
+Facture		NFI		nouveau fichier
+LigneFacture		NFI		nouveau fichier
+Fournisseur		NFI		nouveau fichier
+Fournisseur		FIC-	Livreur	Fichier supprimé Livreur
+Fournisseur		NWL	Fournisseur (IDFournisseur) et Commande (IDFournisseur)	Nouvelle liaison entre les fichiers Fournisseur (IDFournisseur) et Commande (IDFournisseur)
+Facture		NWL	Facture (IDFacture) et LigneFacture (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et LigneFacture (IDFacture)
+Commande		NWL	Commande (IDCommande) et LiCommande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et LiCommande (IDCommande)
+FamilleProduit		NWL	FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)	Nouvelle liaison entre les fichiers FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)
+Client		NWL	Client (IDClient) et Facture (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Facture (IDClient)
+Produit		NWL	Produit (IDProduit) et LigneFacture (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et LigneFacture (IDProduit)
+Produit		NWL	Produit (IDProduit) et LiCommande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et LiCommande (IDProduit)
+Livreur		DEL	Livreur (IDLivreur) et Commande (IDLivreur)	Liaison supprimée entre les fichiers Livreur (IDLivreur) et Commande (IDLivreur)
+Commande		DEL	Commande (IDCommande) et LiCommande (IDCommande)	Liaison supprimée entre les fichiers Commande (IDCommande) et LiCommande (IDCommande)
+Produit		DEL	Produit (IDProduit) et LiCommande (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et LiCommande (IDProduit)
+FamilleProduit		DEL	FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)	Liaison supprimée entre les fichiers FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)
+Client		DEL	Client (IDClient) et Commande (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commande (IDClient)

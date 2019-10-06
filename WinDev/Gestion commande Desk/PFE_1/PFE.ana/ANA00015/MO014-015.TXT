@@ -1,0 +1,11 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Commande		TAR	72	nouvelle taille enregistrement : 72
+Commande	IDClient	RUB+		IDClient est une nouvelle clé
+Fournisseur		FIC-	Facture	Fichier supprimé Facture
+Fournisseur		FIC-	LigneFacture	Fichier supprimé LigneFacture
+Fournisseur		NWL	Fournisseur (IDFournisseur) et Commande (IDFournisseur)	Nouvelle liaison entre les fichiers Fournisseur (IDFournisseur) et Commande (IDFournisseur)
+Client		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Fournisseur		DEL	Fournisseur (IDFournisseur) et Commande (IDFournisseur)	Liaison supprimée entre les fichiers Fournisseur (IDFournisseur) et Commande (IDFournisseur)
+Facture		DEL	Facture (IDFacture) et LigneFacture (IDFacture)	Liaison supprimée entre les fichiers Facture (IDFacture) et LigneFacture (IDFacture)
+Client		DEL	Client (IDClient) et Facture (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Facture (IDClient)
+Produit		DEL	Produit (IDProduit) et LigneFacture (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et LigneFacture (IDProduit)

@@ -1,0 +1,9 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Produit		FCNX+	Connexion à '192.168.1.4'	
+Commande		FCNX+	Connexion à '192.168.1.4'	
+LiCommande		FCNX+	Connexion à '192.168.1.4'	
+Client		FCNX+	Connexion à '192.168.1.4'	
+FamilleProduit		FCNX+	Connexion à '192.168.1.4'	
+Utilisateurs		FCNX+	Connexion à '192.168.1.4'	
+Typeutilisateurs		FCNX+	Connexion à '192.168.1.4'	
+Connexion à '192.168.1.4'		CNX+		
