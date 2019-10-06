@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Commande		TAR	273	nouvelle taille enregistrement : 273
+Commande	prenomClient	RUB+		prenomClient est une nouvelle clé
+Commande	adresse	RUB+		adresse est une nouvelle clé
+Commande	ville	RUB+		ville est une nouvelle clé

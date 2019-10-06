@@ -1,0 +1,3 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+LiCommande		TAR	43	nouvelle taille enregistrement : 43
+LiCommande	QuantiProd	RUB-		la rubrique QuantiProd est supprimée

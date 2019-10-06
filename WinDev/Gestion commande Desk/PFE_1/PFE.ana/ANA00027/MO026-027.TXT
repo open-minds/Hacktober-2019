@@ -1,0 +1,3 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Livreur		TAR	272	nouvelle taille enregistrement : 272
+Livreur	adresse	RUB+		adresse est une nouvelle rubrique

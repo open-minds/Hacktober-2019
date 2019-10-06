@@ -1,0 +1,9 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Commande	IDLivreurs	NNR	IDFournisseur	ATTENTION : la clé IDFournisseur a pour nouveau nom IDLivreurs
+LiCommande	Qcom	NNR	Quanité	ATTENTION : la rubrique Quanité a pour nouveau nom Qcom
+Livreurs		NNF*	Fournisseur	nouveau nom Livreurs
+Livreurs		TAR	281	nouvelle taille enregistrement : 281
+Livreurs	IDLivreurs	NNR	IDFournisseur	ATTENTION : la clé IDFournisseur a pour nouveau nom IDLivreurs
+Livreurs	DateDebut	RUB+		DateDebut est une nouvelle rubrique
+Livreurs	Société	RUB-		la rubrique Société est supprimée
+Livreurs		FRN		

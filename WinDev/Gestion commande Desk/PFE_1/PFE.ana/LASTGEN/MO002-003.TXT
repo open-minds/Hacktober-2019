@@ -1,0 +1,11 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Commande		TAR	66	nouvelle taille enregistrement : 66
+Commande	ToT	RUB+		ToT est une nouvelle rubrique
+Commande	TVA	RUB+		TVA est une nouvelle rubrique
+Commande	ToTtva	RUB+		ToTtva est une nouvelle rubrique
+LiCommande		TAR	47	nouvelle taille enregistrement : 47
+LiCommande	SouTot	RUB+		SouTot est une nouvelle rubrique
+LiCommande	SouTot	RRN		
+Commande	ToT	RRN		
+Commande	TVA	RRN		
+Commande	ToTtva	RRN		

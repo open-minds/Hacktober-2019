@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Client		TAR	127	nouvelle taille enregistrement : 127
+Client	numTel	CNW	Entier non signé sur 8 octets$Entier sur 4 octets	la rubrique numTel a pour nouveau type Entier non signé sur 8 octets
