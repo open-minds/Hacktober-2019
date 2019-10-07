@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coloring</title>
+	<meta name="author" content="Benyamina Mohammed - Belaroui Samir">
+	<link rel="icon" href="images/logofr4jryellow.png">
+	<link rel="stylesheet" type="text/css" href="css/coloring.css">
+</head>
+<body background="images/background.svg" >
+<div id='navbar'>
+<ul>
+  
+   <li ><a href='index.html'><span>Accueil</span></a></li>
+   <li ><a href='vocabulary.html'><span>Cours vocabulaire</span></a></li>
+   <li ><a href='exercises.html'><span>Exercice</span></a></li>
+   <li class=' active'><a href='coloring.html'><span>Jeu de coloriage</span></a></li>
+</ul>
+</div>
+<img id="logo" src="images/logofr4jryellow.png" alt="logo" height="140" width="140" >
+
+	<div id="drwimg">
+		<button class="imgs" id="monkey" style="margin-bottom: 35px"  onclick="imgClick(this.id)"> monkey</button>
+			<button class="imgs" id="bird" style="margin-bottom : 30px"  onclick="imgClick(this.id)"> bird</button>
+
+	<button class="imgs"   id="hamtaru" onclick="imgClick(this.id)"> hamtaru</button>
+	
+	</div>
+	
+	<img id="sBackground" src="images/Coloring.png">
+
+
+	
+
+<canvas id="Interface" ></canvas>
+<canvas id="mainDraw" ></canvas>
+
+<nav id="brushes">
+	<div id="colors">
+	<a href="#" id="red" style="background-color: red ;  position: fixed;top: 270px; left: 135px" class="color"></a>
+	<a href="#" id="darkblue" style="background-color: darkblue ;  position: fixed;top: 495px; left: 330px; " class="color" ></a>
+	<a href="#" id="purple" style="background-color: purple ;  position: fixed;top: 505px; left: 235px; " class="color"" class="color"></a>
+	<a href="#" id="orange" style="background-color: orange ;  position: fixed;top: 460px; left: 140px; " class="color"" class="color"></a>
+	<a href="#" id="green" style="background-color: green ;  position: fixed;top: 355px; left: 100px; " class="color"" class="color"></a>
+	<a href="#" id="yellow" style="background-color: yellow ;  position: fixed;top: 190px; left: 205px; " class="color"" class="color"></a>
+	<a href="#" id="white" style="width: 100px;height: 100px; background-color: white;  position: fixed;top: 388px; left: 407px; " class="color"" class="color"></a>
+	
+
+
+	</div>
+	<div id="sizes">
+		<a href="#" style="background-color: black ; position: fixed;top: 151.5px; left: 378px; width: 150px; height: 150px; " class="size" data-value ="50"></a>
+		<a href="#" style="background-color: black ; position: fixed;top: 270px; left: 257px; width: 100px; height: 100px; " class="size" data-value ="30"></a>
+		<a href="#" style="background-color: black ;  position: fixed;top: 407px; left: 243px; width: 75px; height: 75px; " class="size" data-value="10"></a>
+	</div>
+	
+
+</nav>
+
+<script type="text/javascript" src="js/Coloringscript.js"></script>
+
+</body>
+</html>
