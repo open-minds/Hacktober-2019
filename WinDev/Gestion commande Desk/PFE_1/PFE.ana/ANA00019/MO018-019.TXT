@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Commande		TAR	68	nouvelle taille enregistrement : 68
+Commande	NumCom	RUB+		NumCom est une nouvelle rubrique

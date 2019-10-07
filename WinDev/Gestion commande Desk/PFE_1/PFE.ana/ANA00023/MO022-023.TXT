@@ -1,0 +1,3 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Utilisateurs		TAR	280	nouvelle taille enregistrement : 280
+Utilisateurs	motdepass	RUB+		motdepass est une nouvelle rubrique

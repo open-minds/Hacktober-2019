@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Produit		TAR	94	nouvelle taille enregistrement : 94
+Produit	photo	RUB+		photo est une nouvelle rubrique

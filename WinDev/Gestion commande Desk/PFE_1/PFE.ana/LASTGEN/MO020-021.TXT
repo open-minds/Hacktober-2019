@@ -1,0 +1,4 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Commande		TAR	68	nouvelle taille enregistrement : 68
+Commande	IDLivreurs	RUB-		la clé IDLivreurs est supprimée
+Livreurs		DEL	Livreurs (IDLivreurs) et Commande (IDLivreurs)	Liaison supprimée entre les fichiers Livreurs (IDLivreurs) et Commande (IDLivreurs)
