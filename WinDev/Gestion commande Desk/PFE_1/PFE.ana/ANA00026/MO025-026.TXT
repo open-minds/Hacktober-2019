@@ -1,0 +1,2 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Livreur		NFI		nouveau fichier

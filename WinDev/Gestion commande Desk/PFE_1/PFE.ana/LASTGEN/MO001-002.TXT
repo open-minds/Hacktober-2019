@@ -1,0 +1,11 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Livreur	nomLivreur	NNR	nom	ATTENTION : la rubrique nom a pour nouveau nom nomLivreur
+Livreur	prenomLivreur	NNR	prenom	ATTENTION : la rubrique prenom a pour nouveau nom prenomLivreur
+Commande		NFI		nouveau fichier
+LiCommande		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Livreur		NWL	Livreur (IDLivreur) et Commande (IDLivreur)	Nouvelle liaison entre les fichiers Livreur (IDLivreur) et Commande (IDLivreur)
+Commande		NWL	Commande (IDCommande) et LiCommande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et LiCommande (IDCommande)
+Produit		NWL	Produit (IDProduit) et LiCommande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et LiCommande (IDProduit)
+Client		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Client	numTel	RRN		

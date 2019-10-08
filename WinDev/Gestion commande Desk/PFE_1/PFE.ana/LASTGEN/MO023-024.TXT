@@ -1,0 +1,2 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Utilisateurs	nomUtilisateur	CLEU*		la rubrique nomUtilisateur est maintenant une clé

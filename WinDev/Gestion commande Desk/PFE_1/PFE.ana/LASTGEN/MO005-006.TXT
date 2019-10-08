@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Produit		TAR	86	nouvelle taille enregistrement : 86
+Produit	IDFamilleProduit	RUB+		IDFamilleProduit est une nouvelle clé
+FamilleProduit		NFI		nouveau fichier
+FamilleProduit		NWL	FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)	Nouvelle liaison entre les fichiers FamilleProduit (IDFamilleProduit) et Produit (IDFamilleProduit)

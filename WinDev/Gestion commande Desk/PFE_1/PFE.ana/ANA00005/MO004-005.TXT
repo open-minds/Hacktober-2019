@@ -1,0 +1,2 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Client	bekoucha	NNR	nomClient	ATTENTION : la rubrique nomClient a pour nouveau nom bekoucha

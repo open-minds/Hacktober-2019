@@ -1,0 +1,2 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+Produit	codebarre	CLEU*		la rubrique codebarre est maintenant une clé

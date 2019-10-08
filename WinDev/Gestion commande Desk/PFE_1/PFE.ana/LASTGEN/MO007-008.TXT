@@ -1,0 +1,8 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Commande		TAR	42	nouvelle taille enregistrement : 42
+Commande	ToT	RUB-		la rubrique ToT est supprimée
+Commande	TVA	RUB-		la rubrique TVA est supprimée
+Commande	ToTtva	RUB-		la rubrique ToTtva est supprimée
+LiCommande		TAR	33	nouvelle taille enregistrement : 33
+LiCommande	SouTot	RUB-		la rubrique SouTot est supprimée
+Client	NomClient	NNR	bekoucha	ATTENTION : la rubrique bekoucha a pour nouveau nom NomClient

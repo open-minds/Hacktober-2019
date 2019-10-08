@@ -1,0 +1,14 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Commande		TAR	158	nouvelle taille enregistrement : 158
+Commande	NomLivreur	RUB+		NomLivreur est une nouvelle clé
+Commande	NomClient	RUB+		NomClient est une nouvelle clé
+Commande	IDLivreurs	RUB-		la clé IDLivreurs est supprimée
+Commande	IDClient	RUB-		la clé IDClient est supprimée
+Client	NomClient	CLEU*		la rubrique NomClient est maintenant une clé
+Livreurs	nomLivreur	NNR	nomFournisseur	ATTENTION : la clé nomFournisseur a pour nouveau nom nomLivreur
+Livreurs	nomLivreur	CLEU*		la rubrique nomLivreur est maintenant une clé
+Livreurs	PrenomLivreur	NNR	Prenomfournisseur	ATTENTION : la rubrique Prenomfournisseur a pour nouveau nom PrenomLivreur
+Livreurs		NWL	Livreurs (nomLivreur) et Commande (NomLivreur)	Nouvelle liaison entre les fichiers Livreurs (nomLivreur) et Commande (NomLivreur)
+Client		NWL	Client (NomClient) et Commande (NomClient)	Nouvelle liaison entre les fichiers Client (NomClient) et Commande (NomClient)
+Livreurs		DEL	Livreurs (IDLivreurs) et Commande (IDLivreurs)	Liaison supprimée entre les fichiers Livreurs (IDLivreurs) et Commande (IDLivreurs)
+Client		DEL	Client (IDClient) et Commande (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commande (IDClient)

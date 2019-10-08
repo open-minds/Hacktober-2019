@@ -1,3 +1,6 @@
 #### [Aimene-BAHRI](https://github.com/Aimene-BAHRI)
 #### [Oussama-BONNOR](https://github.com/oussamabonnor1) 
 #### [Nada-Iftene](https://github.com/Nada-Iftene) 
+#### [kebirabed](https://github.com/kebirabed)
+#### [Samir-Belaroui](https://github.com/Samir-Belaroui)
+#### [Ishak-Hari](https://github.com/ishakhari)

@@ -1,0 +1,9 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Produit		FCNX+	Connexion à '172.20.10.100'	
+Commande		FCNX+	Connexion à '172.20.10.100'	
+LiCommande		FCNX+	Connexion à '172.20.10.100'	
+Client		FCNX+	Connexion à '172.20.10.100'	
+FamilleProduit		FCNX+	Connexion à '172.20.10.100'	
+Utilisateurs		FCNX+	Connexion à '172.20.10.100'	
+Typeutilisateurs		FCNX+	Connexion à '172.20.10.100'	
+Connexion à '172.20.10.100'		CNX+		

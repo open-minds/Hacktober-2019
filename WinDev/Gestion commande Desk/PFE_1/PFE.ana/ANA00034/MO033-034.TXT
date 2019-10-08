@@ -1,0 +1,19 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Livreur		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Livreur		FCNX+	Connexion à '192.168.1.100'	
+Produit		RPP		répertoire des programmes
+Produit		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Produit		FCNX+	Connexion à '192.168.1.100'	
+Commande		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Commande		FCNX+	Connexion à '192.168.1.100'	
+LiCommande		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+LiCommande		FCNX+	Connexion à '192.168.1.100'	
+Client		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Client		FCNX+	Connexion à '192.168.1.100'	
+FamilleProduit		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+FamilleProduit		FCNX+	Connexion à '192.168.1.100'	
+Utilisateurs		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Utilisateurs		FCNX+	Connexion à '192.168.1.100'	
+Typeutilisateurs		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Typeutilisateurs		FCNX+	Connexion à '192.168.1.100'	
+Connexion à '192.168.1.100'		CNX+		

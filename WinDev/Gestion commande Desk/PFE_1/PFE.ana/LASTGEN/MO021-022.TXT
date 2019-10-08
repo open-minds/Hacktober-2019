@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Utilisateurs		NFI		nouveau fichier
+Typeutilisateurs		NFI		nouveau fichier
+Typeutilisateurs		FIC-	Livreurs	Fichier supprimé Livreurs
+Typeutilisateurs		NWL	Typeutilisateurs (IDTypeutilisateurs) et Utilisateurs (IDTypeutilisateurs)	Nouvelle liaison entre les fichiers Typeutilisateurs (IDTypeutilisateurs) et Utilisateurs (IDTypeutilisateurs)

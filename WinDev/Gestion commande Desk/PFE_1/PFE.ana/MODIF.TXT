@@ -1,0 +1,12 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Produit		FCNX+	Connexion à '172.20.10.3'	
+Commande		FCNX+	Connexion à '172.20.10.3'	
+LiCommande		FCNX+	Connexion à '172.20.10.3'	
+Client		FCNX+	Connexion à '172.20.10.3'	
+FamilleProduit		FCNX+	Connexion à '172.20.10.3'	
+Utilisateurs		FCNX+	Connexion à '172.20.10.3'	
+Typeutilisateurs		FCNX+	Connexion à '172.20.10.3'	
+Connexion à '172.20.10.3'		CNX+		
+Commande		FRN		
+LiCommande		FRN		
+FamilleProduit		FRN		

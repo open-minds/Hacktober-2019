@@ -1,0 +1,6 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Commande		TAR	120	nouvelle taille enregistrement : 120
+Commande	NomClient	RUB+		NomClient est une nouvelle clé
+Client	NomClient	CLEU*		la rubrique NomClient est maintenant une clé
+Contrainte_Client_Commande		LMC	Client$NomClient$IDClient	
+Contrainte_Client_Commande		LMC	Commande$NomClient$IDClient	

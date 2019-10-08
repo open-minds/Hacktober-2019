@@ -1,0 +1,5 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Commande		TAR	120	nouvelle taille enregistrement : 120
+Commande	prenomClient	RUB-		la clé prenomClient est supprimée
+Commande	adresse	RUB-		la clé adresse est supprimée
+Commande	ville	RUB-		la clé ville est supprimée

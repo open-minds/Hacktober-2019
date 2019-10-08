@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Produit		REP*	C:\Users\HOME\Desktop\Desktopfinal\PFE_1\Exe	nouveau répertoire C:\Users\HOME\Desktop\Desktopfinal\PFE_1\Exe
+Produit		FRN		

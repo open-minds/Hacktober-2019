@@ -1,0 +1,10 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Livreur		FCNX+	Connexion à '192.168.1.111'	
+Produit		FCNX+	Connexion à '192.168.1.111'	
+Commande		FCNX+	Connexion à '192.168.1.111'	
+LiCommande		FCNX+	Connexion à '192.168.1.111'	
+Client		FCNX+	Connexion à '192.168.1.111'	
+FamilleProduit		FCNX+	Connexion à '192.168.1.111'	
+Utilisateurs		FCNX+	Connexion à '192.168.1.111'	
+Typeutilisateurs		FCNX+	Connexion à '192.168.1.111'	
+Connexion à '192.168.1.111'		CNX+		

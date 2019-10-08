@@ -1,0 +1,5 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Commande		TAR	85	nouvelle taille enregistrement : 85
+Commande	NomClient	RUB+		NomClient est une nouvelle clé
+Commande	IDClient	RUB-		la clé IDClient est supprimée
+Client		DEL	Client (IDClient) et Commande (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commande (IDClient)
