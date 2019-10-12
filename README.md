@@ -20,6 +20,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Edit the file and insert your short profile following the instructions below, then click on Commit Changes.
 * Navigate to the `profiles` directory
 * Click `Create new file` and create a new profile `Your_Full_Name.md`, and commit your changes.
+* Add any piece of code (we recommand you add something in the `Hello World` folder).
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
