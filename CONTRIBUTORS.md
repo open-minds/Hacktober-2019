@@ -11,4 +11,6 @@
 #### [BendabizAdam](https://github.com/BendabizAdam)
 #### [DavidInojosa](https://github.com/DavidInojosa)
 #### [Prem-Gupta](https://github.com/premgwl)
+#### [dadadjamel](https://github.com/dadadjamel)
+#### [imadtoubal](https://github.com/imadtoubal)
 #### [IndigoWizard](https://github.com/IndigoWizard)

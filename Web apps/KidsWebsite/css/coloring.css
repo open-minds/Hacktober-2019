@@ -1,0 +1,180 @@
+/*Benyamina Mohammed - Belaroui Samir*/
+#sBackground{
+	position: fixed;
+	top :30px;
+	
+	width: 1350px;
+	height: 680px;
+}
+#Interface{
+	position: fixed;
+	z-index: 1000;
+	right :75px;
+	top: 105px;
+}
+#mainDraw{
+	position: fixed;
+	z-index: 500;
+	right :75px;
+	top: 105px;
+}
+
+
+#brushes a{
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+	border-radius: 100px;
+	margin: 0 10px 0 0;
+	border : solid black;
+	float: right;
+	opacity: 0;
+}
+
+
+#drwimg{
+	
+	border-radius: 20px;	
+	position: fixed;
+	top: 135px;
+	right: 585px;
+	z-index: 2000;
+	float: left;
+	opacity: 0;
+}
+#drwimg button{
+	width: 130px;
+	height: 130px;
+	border-radius: 100px;
+	display: block;
+}
+#logo{
+ 
+ position: fixed;
+ left:88% ;
+ top: 0%;
+ right: 0%;
+   z-index: 1000;
+
+
+
+}
+#navbar {
+  background: #9777ff;
+  width: auto;
+}
+#navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  display: block;
+  zoom: 1;
+}
+#navbar ul:after {
+  content: " ";
+  display: block;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#navbar ul li {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+#navbar.align-right ul li {
+  float: right;
+}
+#navbar.align-center ul {
+  text-align: center;
+}
+#navbar ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 15px 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  -webkit-transition: color .25s;
+  -moz-transition: color .25s;
+  -ms-transition: color .25s;
+  -o-transition: color .25s;
+  transition: color .25s;
+}
+#navbar ul li a:hover {
+  color: #333333;
+}
+#navbar ul li a:hover:before {
+  width: 100%;
+}
+#navbar ul li a:after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: -3px;
+  top: 19px;
+  height: 6px;
+  width: 6px;
+  background: #ffffff;
+  opacity: .5;
+}
+#navbar ul li a:before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background: #333333;
+  -webkit-transition: width .25s;
+  -moz-transition: width .25s;
+  -ms-transition: width .25s;
+  -o-transition: width .25s;
+  transition: width .25s;
+}
+#navbar ul li.last > a:after,
+#navbar ul li:last-child > a:after {
+  display: none;
+}
+#navbar ul li.active a {
+  color: #333333;
+}
+#navbar ul li.active a:before {
+  width: 100%;
+}
+#navbar.align-right li.last > a:after,
+#navbar.align-right li:last-child > a:after {
+  display: block;
+}
+#navbar.align-right li:first-child a:after {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  #navbar ul li {
+    float: none;
+    display: block;
+  }
+  #navbar ul li a {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid #fb998c;
+  }
+  #navbar ul li.last > a,
+  #navbar ul li:last-child > a {
+    border: 0;
+  }
+  #navbar ul li a:after {
+    display: none;
+  }
+  #navbar ul li a:before {
+    display: none;
+  }
+}

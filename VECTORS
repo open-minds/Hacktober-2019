@@ -1,5 +1,0 @@
-final_scores <- c(88, 87.66667, 86, 91.33333, 84, 91, 89.33333)
-stem_grades<-final_scores[c(1,2)]
-non_stem_grades<-final_scores[c(3,4,5,6,7)]
-avg_non_stem_grades<-mean(non_stem_grades)
-avg_stem_grades<-mean(stem_grades)
