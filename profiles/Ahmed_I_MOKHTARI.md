@@ -24,7 +24,7 @@ Uiversity of Science and Technology Houari Boumediene, Algeria. (USTHB)
 - GitHub [IndigoWizard](https://github.com/IndigoWizard)
 - Linkedin [Islem Mokhtari](https://www.linkedin.com/in/islem-mokhtari-168a07160/)
 
-### GitHub Page/Website (if availble)
+### GitHub Page/Website
 [Gengar's album - ghPages](https://indigowizard.github.io/gTest/)
 
 ### Other projects
