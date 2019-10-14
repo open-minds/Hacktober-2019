@@ -1,6 +1,10 @@
 # Hacktober-2019
 ## Share what you did in 2019!
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/open-minds/Hacktober-2019/blob/master/LICENSE)
+![first-temers](https://img.shields.io/badge/first--timers-friendly-blue)
+![PRs-welcome](https://img.shields.io/badge/Pull%20Requests-Welcome-success)
+
 Repo for TOM members dedicated for the Hacktober fest of 2019 (6th edition), this repo is here to encourage open source learning and sharing and enhance git/github using abilities. 
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -83,3 +87,9 @@ Your School
 
 [GitHib username](GitHub profile link)
 ```
+
+
+## Up for more PRs? Check this quick list for more interesting ressources (first timers friendly):
+* [Micro Club - USTHB](https://github.com/MicroClub-USTHB/Hacktoberfest-2k19) Our awesome friends from University of Science and Technology Houari Boumediene scientific club **Micro Club** are doing Hacktoberfest too!
+* [First Timers Only](https://www.firsttimersonly.com/) Friendly Open Source projects on the go!
+* [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) Open source codebase and curriculum. Learn to code for free together with millions of people.
