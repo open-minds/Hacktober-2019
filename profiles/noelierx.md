@@ -15,8 +15,8 @@ EEMI, Ecole Multimédia
 
 ### Development
 
-- web developper
-- esport loveer
+- web developer
+- esport lover
 
 ### Profile Link
 
