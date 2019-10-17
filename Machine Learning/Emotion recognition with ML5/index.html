@@ -1,0 +1,106 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Teachable Machine Example</title>
+    <link rel="stylesheet" type="text/css" href="./libraries/bootstrap.min.css">
+    </link>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    </link>
+    <script src="libraries/clmtrackr.js"></script>
+    <script src="libraries/model_pca_20_svm.js"></script>
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.dom.min.js"></script>
+    <script src="libraries/p5ml.min.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+
+  <body>
+    <div class="container p-3">
+      <div class="row">
+        <div class="col-md-12">
+          <center>
+            <h1>EMOTION RECOGNITION</h1>
+            <p>Allow camera access, wait until your face has been detected, train the algorithm using the buttons of emotions (and your face). Once you're done, train it and see the magic!</p>
+          </center>
+        </div>
+      </div>
+    </div>
+    <div id="app" class="container">
+      <div class="row">
+        <div class="col-md-6" id="mainCanvas">
+        </div>
+        <div class="col-md-6 p-3">
+          <h1>Predicion</h1>
+          <p id="prediction"></p>
+          <div class="row mt-4 learning-class" id="class1">
+            <h3 class="col-md-12" id="class1-name">
+              Happy
+            </h3>
+            <div class="col-md-12 ">
+              <div id="class1-probability" class="progress-bar bg-success progress-bar-striped" role="progressbar"
+                aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                0%
+              </div>
+            </div>
+          </div>
+          <div class="row mt-4 learning-class" id="class1">
+            <h3 id="class2-name" class="col-md-12">
+              Sad
+            </h3>
+            <div class="col-md-12">
+              <div id="class2-probability" class="progress-bar bg-warning progress-bar-striped" role="progressbar"
+                aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                70%
+              </div>
+            </div>
+          </div>
+          <div class="row mt-4 learning-class" id="class1">
+            <h3 id="class3-name" class="col-md-12">
+              Suprised
+            </h3>
+            <div class="col-md-12">
+              <div id="class3-probability" class="progress-bar bg-info progress-bar-striped" role="progressbar"
+                aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                70%
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <div class="container " id="controls">
+
+      <div class="row">
+        <div class="col-md-8">
+          <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <a href="#" id="class1button" class="btn btn-success">
+              Happy
+            </a>
+            <a href="#" id="class2button" class="btn btn-warning">
+              Sad
+            </a>
+            <a href="#" id="class3button" class="btn btn-info">
+              Surprised
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <a href="#" class="btn btn-primary " id="train-button"> Train </a>
+        </div>
+      </div>
+
+      <div class="row mt-3">
+        <div class="col-md-12">
+          <div class="progress ">
+            <div id="training-progress" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75"
+              aria-valuemin="0" aria-valuemax="100" style="width: 0%">Progress</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
