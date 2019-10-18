@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/507.jpg");
+    color:white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+    font-weight: bold;
+    font-size: 70px;
+    box-shadow: 0 5px 10px black;
+    border-radius: 10px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.3);
+    top: 20%;
+    position: absolute;
+    left: 37%;
+}
