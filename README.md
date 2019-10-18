@@ -7,7 +7,6 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/open-minds/Hacktober-2019/hacktoberfest?color=red&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/open-minds/Hacktober-2019?color=teal&style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/open-minds/Hacktober-2019?style=flat-square)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fopen-minds%2FHacktober-2019)
 
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/open-minds/Hacktober-2019?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/open-minds/Hacktober-2019?color=green&style=flat-square)
