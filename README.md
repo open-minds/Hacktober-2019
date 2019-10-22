@@ -4,6 +4,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/open-minds/Hacktober-2019/blob/master/LICENSE)
 ![first-temers](https://img.shields.io/badge/first--timers-friendly-blue)
 ![PRs-welcome](https://img.shields.io/badge/Pull%20Requests-Welcome-success)
+![GitHub search hit counter](https://img.shields.io/github/search/open-minds/Hacktober-2019/hacktoberfest?color=red&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/open-minds/Hacktober-2019?color=teal&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/open-minds/Hacktober-2019?style=flat-square)
+
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/open-minds/Hacktober-2019?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/open-minds/Hacktober-2019?color=green&style=flat-square)
+
 
 Repo for TOM members dedicated for the Hacktober fest of 2019 (6th edition), this repo is here to encourage open source learning and sharing and enhance git/github using abilities. 
 
