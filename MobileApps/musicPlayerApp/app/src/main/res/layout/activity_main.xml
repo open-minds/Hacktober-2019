@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal" >
+
+    <ImageView
+        android:layout_marginTop="60sp"
+        android:layout_width="222dp"
+        android:layout_height="400dp"
+        android:src="@drawable/music"
+
+        />
+    <SeekBar
+        android:id="@+id/position_Bar"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/elapsedTimeLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0:11"
+            android:layout_marginLeft="40dp"
+            />
+        <TextView
+            android:id="@+id/remainingTimeLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-1:49"
+            android:layout_marginLeft="240dp"
+            />
+
+    </LinearLayout>
+
+    <Button
+    android:id="@+id/btn_play_id"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:background="@drawable/btnyemchi"
+    android:layout_marginTop="20dp"
+    android:onClick="playClick" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:id="@+id/mut_id"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+
+            android:src="@drawable/mut"/>
+        <SeekBar
+
+            android:id="@+id/seekbar_volume"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:progress="50"
+            android:max="100"
+            />
+        <ImageView
+            android:id="@+id/afond_id"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+
+            android:src="@drawable/afond"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
